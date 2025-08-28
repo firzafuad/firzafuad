@@ -1,9 +1,10 @@
+<img src="./assets/separator.gif">
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=48&duration=3000&pause=1000&color=176CF7&center=true&vCenter=true&width=700&height=75&lines=%3C+Hello%2C+World!+%2F%3E;I'm+Firza+Fuad;Welcome+to+my+profile+!" alt="Typing SVG" /></a>
 </div>
 
 <img src="./assets/separator.gif">
-<br><br>
+<br>
 
 ## <img src="./assets/waving-hand.gif" width="50px"> About Me
 - 🪪 My full name is **Achmad Firza Fuadi**
