@@ -10,9 +10,10 @@
 - 🪪 My full name is **Achmad Firza Fuadi**
   <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem53MWdiMzB5czl4YmE3Y2ttNmhta29lMG1ib2s1MTAxYnMxaXVwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pALw8LdftuqAw/giphy.gif"  />
 - 🌏 I'm from **Jombang, Indonesia**
-- 📚 Currently a Computer Science student at **Sorbonne Université, Paris**
+- 🎓 Currently a Computer Science student at **Sorbonne Université, Paris**
 - 🌱 Currently learning Machine Learning
-- 🤓 Interested in AI development
+- 📚 Reading 《 **Quand La Machine Apprend** 》 by **Yann LeCun**
+- 🤓 Interested in AI and IoT
 - ⚡️ Fun fact: Into solo traveling and photography
 
 ## <img src="./assets/code.gif" width="50px"> Programming Languages & Tools
